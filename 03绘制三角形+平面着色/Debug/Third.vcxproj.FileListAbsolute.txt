@@ -1,0 +1,2 @@
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\03绘制三角形+平面着色\Debug\Third.exe
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\03绘制三角形+平面着色\Debug\Third.pdb

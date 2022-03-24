@@ -1,0 +1,46 @@
+﻿  main.cpp
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(32,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(63,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(63,34): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(78,28): warning C4305: “+=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(90,33): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(90,28): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(98,48): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(98,21): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(132,106): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(132,89): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\main.cpp(132,72): warning C4244: “参数”: 从“float”转换到“unsigned char”，可能丢失数据
+  model.cpp
+  tgaimage.cpp
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  正在生成代码...
+  Fourth.vcxproj -> D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\04zbuffer\Debug\Fourth.exe

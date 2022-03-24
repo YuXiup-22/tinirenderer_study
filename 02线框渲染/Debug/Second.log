@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\02线框渲染\main.cpp(34,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\02线框渲染\main.cpp(198,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\02线框渲染\main.cpp(199,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\02线框渲染\main.cpp(200,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\02线框渲染\main.cpp(201,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Second.vcxproj -> D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\02线框渲染\Debug\Second.exe

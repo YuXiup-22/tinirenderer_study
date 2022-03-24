@@ -1,0 +1,84 @@
+﻿  main.cpp
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\tgaimage.h(58,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(91,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(129,32): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(129,19): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(130,32): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(130,19): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(131,32): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(131,19): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(179,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(179,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(181,29): warning C4244: “=”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(182,29): warning C4244: “=”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(199,59): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\geometry.h(15,71): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\geometry.h(15): message : 在编译 类 模板 成员函数“Vec2<int> Vec2<int>::operator *(float) const”时
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(83): message : 查看对正在编译的函数 模板 实例化“Vec2<int> Vec2<int>::operator *(float) const”的引用
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\main.cpp(64): message : 查看对正在编译的 类 模板 实例化“Vec2<int>”的引用
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\geometry.h(15,66): warning C4244: “参数”: 从“float”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+  Six.vcxproj -> D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\06移动视角\Debug\Six.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\01画线\main.cpp(7,33): warning C4305: “+=”: 从“double”到“float”截断
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\01画线\main.cpp(9,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\01画线\main.cpp(10,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  First.vcxproj -> D:\Yuxi\CG\tinyrenderer_notes-main\tinyrenderer_notes-main\01画线\Debug\First.exe
